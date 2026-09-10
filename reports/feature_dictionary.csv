@@ -1,0 +1,14 @@
+feature,description,role
+log_downloads,Downloads (log1p),Primary continuous modeling feature
+log_likes,Likes (log1p),Primary continuous modeling feature
+log_model_age_days,Model age (log1p days),Primary continuous modeling feature
+log_days_since_update,Update recency (log1p days),Primary continuous modeling feature
+log_tag_count,Tag count (log1p),Primary continuous modeling feature
+model_id_length,Model ID length,Primary continuous modeling feature
+log_author_model_count,Author prevalence (log1p),Primary continuous modeling feature
+log_pipeline_model_count,Task prevalence (log1p),Primary continuous modeling feature
+log_library_model_count,Library prevalence (log1p),Primary continuous modeling feature
+gated_flag,Gated access,Supplementary binary profile
+library_missing,Library missing,Supplementary binary profile
+has_license_tag,License tag present,Supplementary binary profile
+has_arxiv_reference,arXiv reference present,Supplementary binary profile
